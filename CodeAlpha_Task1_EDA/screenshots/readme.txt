@@ -1,10 +1,7 @@
 # 📸 Screenshots
 
-This folder contains sample visualizations from the Exploratory Data Analysis project.
+## Monthly Order Trend
+![Monthly Trend](CodeAlpha_Task1_EDA/screenshots/Screenshot 2026-02-27 142031.png)
 
-The images provide a quick preview of key insights derived from the dataset, including:
-
-- Monthly order trend
-- Payment method distribution
-
-For complete analysis, refer to the main notebook file.
+## Payment Distribution
+![Payment Distribution](CodeAlpha_Task1_EDA/screenshots/Screenshot 2026-02-27 142104.png)
