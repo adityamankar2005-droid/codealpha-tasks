@@ -37,5 +37,21 @@ This project presents a Power BI dashboard analyzing Brazilian e-commerce data f
 
 ---
 
+## 📸 Dashboard Preview
+
+### Full Dashboard
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### KPI Section
+![KPIs](screenshots/kpis.png)
+
+### Monthly Trend
+![Trend](screenshots/charts.png)
+
+### Orders
+![Categories](screenshots/order.png)
+
+---
+
 ## 🚀 Outcome
 This dashboard demonstrates skills in data modeling, KPI design, interactive reporting, and business insight generation using Power BI.
