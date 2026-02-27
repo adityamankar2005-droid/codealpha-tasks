@@ -40,10 +40,10 @@ This project presents a Power BI dashboard analyzing Brazilian e-commerce data f
 ## 📸 Dashboard Preview
 
 ### Full Dashboard
-![Dashboard Overview](dashboard_overview.png.png)
+![Dashboard Overview](screenshots/dashboard_overview.png.png)
 
 ### KPI Section
-![KPIs](kpis.png.png)
+![KPIs](screenshots/kpis.png.png)
 
 ### Monthly Trend
 ![Trend](screenshots/charts.png.png)
