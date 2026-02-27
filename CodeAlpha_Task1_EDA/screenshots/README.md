@@ -1,7 +1,7 @@
 # 📸 Screenshots
 
 ## Monthly Order Trend
-![Monthly Trend](Screenshot 2026-02-27 142031.png)
+![Monthly Trend](monthly_trend.png)
 
 ## Payment Distribution
-![Payment Distribution](Screenshot 2026-02-27 142104.png)
+![Payment Distribution](payment_distribution.png)
