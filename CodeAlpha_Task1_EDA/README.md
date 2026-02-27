@@ -27,4 +27,5 @@ Brazilian E-Commerce Public Dataset by Olist (2016–2018).
 - Majority of transactions via credit card.
 - High delivery success rate (~97%).
 
----
+## Sample Screenshot
+![Monthly Trend](screenshots/monthly_trend.png)
