@@ -14,18 +14,13 @@ This project performs sentiment analysis on Amazon Fine Food Reviews using TextB
 
 ## 📊 Sample Visualizations
 
-### Sentiment Distribution
-![Sentiment](screenshots/sentiment_distribution.png)
+![Sentiment Distribution](screenshots/Sentiment Distribution screenshot.png)
 
-### Rating vs Sentiment
-![Rating](screenshots/rating_vs_sentiment.png)
+![Rating vs Sentiment](screenshots/Rating vs Sentiment screenshot.png)
 
-### Positive Word Cloud
-![Positive](screenshots/positive_wordcloud.png)
+![Positive Word Cloud](screenshots/Positive Word Cloud screenshot.png)
 
-### Negative Word Cloud
-![Negative](screenshots/negative_wordcloud.png)
-
+![Negative Word Cloud](screenshots/Negative Word Cloud screenshot.png)
 ---
 Note: Dataset is not uploaded due to large file size. 
 Dataset used: Amazon Fine Food Reviews (Kaggle).
